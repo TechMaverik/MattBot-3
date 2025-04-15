@@ -1,5 +1,5 @@
 # MattBot-3 Server
-A data extraction based integratable chatbot using FastAPI
+A Natural Language Processing (NLP) based integratable chatbot using FastAPI
 ## Installation
 * Create a virtual environment
 * Install dependencies from requirements.txt
